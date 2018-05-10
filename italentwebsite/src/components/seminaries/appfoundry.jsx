@@ -1,0 +1,16 @@
+import React  from 'react';
+
+const AppFoundry = () => {
+    return (
+        <div className="container">
+            <h3>AppFoundry - “Introduction iOS en Android”</h3>
+            <h4>18/04/2017 @ Corda Conference</h4>
+            <br></br>
+
+            <p>Mobiele applicaties zijn de dag van vandaag nog moeilijk weg te denken uit het dagelijkse leven.  Naar de toekomst zullen ze bovendien ook alleen nog maar belangrijker worden. AppFoundry, lid van de Xplore Group, heeft daarom een seminarie georganiseerd waarin de basis van Android en iOS ontwikkeling uit de doeken gedaan werd.</p>
+            <p>Dit seminarie vond plaats vooraleer we dit gezien hadden tijdens de opleiding aan de PXL, veel was dan ook nieuw voor mij. Vooral het iOS gedeelte was interessant voor mij, dit omdat ik reeds meegedaan had aan een Bus-IT week die volledig in het punt van Android ontwikkeling stond.</p>
+        </div>
+    );
+};
+
+export default AppFoundry;

@@ -1,0 +1,17 @@
+import React  from 'react';
+
+const Icapps = () => {
+    return (
+        <div className="container">
+            <h3>ICapps - “Blockchain explained”</h3>
+            <h4>27/09/2017 @ B141</h4>
+            <br></br>
+
+            <p>Het seminarie van ICapps was er ééntje dat voor het grootste deel in functie stond van blockchain. Dit was mijn eerste seminarie omtrent dit onderwerp en vond plaats vooraleer ik zelfs research gedaan heb naar blockchain, alles wat er dus verteld werd tijdens dit seminarie was nieuw voor mij.</p>
+            <p>Dit was één van de seminaries die mij aangezet heeft om achter zelf nog informatie op te zoeken over een onderwerp. De werking hiervan vond ik interessant en prikkelde mij om er meer over te weten.</p>
+            
+        </div>
+    );
+};
+
+export default Icapps;

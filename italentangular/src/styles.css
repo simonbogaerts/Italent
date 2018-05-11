@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url('/assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.whitebg {
+    background-color:rgb(255, 255, 255, 0.8)
+}
+
+.center {
+    background-color: white;
+    text-align: center;
+}

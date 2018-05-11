@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\11500036\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+
+PATH: 
+  C:\Users\11500036\Desktop\cmder\bin;C:\Users\11500036\Desktop\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\11500036\Desktop\cmder\vendor\conemu-maximus5;C:\Users\11500036\Desktop\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files\Java\jdk1.8.0_161\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\nodejs\;C:\Users\11500036\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_161\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\nodejs\;C:\Users\11500036\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\11500036\AppData\Local\Programs\Python\Python36-32\;C:\Users\11500036\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\11500036\AppData\Roaming\npm;C:\Users\11500036\AppData\Local\Microsoft\WindowsApps;C:\Users\11500036\Desktop\sonarqube-6.7.1\bin\windows-x86-64;C:\Users\11500036\Desktop\sonar-scanner\sonar-scanner-3.0.3.778\bin;c:\Users\Me\AppData\Roaming\npm\;C:\Program Files (x86)\Android\android-sdk\build-tools;C:\Program Files (x86)\Android\android-sdk\tools;;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;C:\Users\11500036\Desktop\cmder\
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\11500036\\Desktop\\italent"
+      at new MessageError (C:\Users\11500036\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\11500036\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\11500036\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\11500036\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>

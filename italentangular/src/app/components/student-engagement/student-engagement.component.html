@@ -1,0 +1,26 @@
+<div id="tabs">
+  <div class="container">
+      <div class="row">
+          <div class="col-xs-12 ">
+              <nav>
+                  <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                      <a class="nav-item nav-link active" id="nav-hash-tab" data-toggle="tab" href="#nav-hash" role="tab" aria-controls="nav-hash" aria-selected="true">Google HashCode 2017</a>
+                      <a class="nav-item nav-link" id="nav-buddy-tab" data-toggle="tab" href="#nav-buddy" role="tab" aria-controls="nav-buddy" aria-selected="false">Study Buddy</a>
+                      </div>
+              </nav>
+              <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+                  <div class="tab-pane fade show active" id="nav-hash" role="tabpanel" aria-labelledby="nav-hash-tab">
+                      <app-hascode></app-hascode>
+                  </div>
+                  <div class="tab-pane fade" id="nav-buddy" role="tabpanel" aria-labelledby="nav-buddy-tab">
+                      <app-study-buddy></app-study-buddy>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <br>
+      <div class="row">
+          <app-studentengagementref></app-studentengagementref>
+      </div>
+  </div>
+</div>

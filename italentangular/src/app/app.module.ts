@@ -34,6 +34,8 @@ import { SeminariesrefComponent } from './components/reflecties/seminariesref/se
 import { StudentengagementrefComponent } from './components/reflecties/studentengagementref/studentengagementref.component';
 import { InnovatierefComponent } from './components/reflecties/innovatieref/innovatieref.component';
 import { EindreflectieComponent } from './components/reflecties/eindreflectie/eindreflectie.component';
+import { IntroComponent } from './components/intro/intro.component';
+import { OverviewComponent } from './components/overview/overview.component';
 
 
 @NgModule({
@@ -67,7 +69,9 @@ import { EindreflectieComponent } from './components/reflecties/eindreflectie/ei
     SeminariesrefComponent,
     StudentengagementrefComponent,
     InnovatierefComponent,
-    EindreflectieComponent
+    EindreflectieComponent,
+    IntroComponent,
+    OverviewComponent
   ],
   imports: [
     BrowserModule,
